@@ -1,4 +1,4 @@
-const fibonacci = require('./index');
+const fibonacci = require('./index.js');
 
 describe('fibonacci', function () {
   it('works', function () {

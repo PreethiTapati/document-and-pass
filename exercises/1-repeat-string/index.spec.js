@@ -1,4 +1,4 @@
-const repeatString = require('./index');
+const repeatString = require('./index.js');
 
 describe('repeatString', function () {
   it('repeats the string', function () {

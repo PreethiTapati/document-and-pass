@@ -1,4 +1,4 @@
-const reverseString = require('./index');
+const reverseString = require('./index.js');
 
 describe('reverseString', function () {
   it('reverses single word', function () {

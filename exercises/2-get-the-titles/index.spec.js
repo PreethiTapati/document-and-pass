@@ -1,4 +1,4 @@
-let getTheTitles = require('./index');
+let getTheTitles = require('./index.js');
 
 describe('getTheTitles', function () {
   const books = [

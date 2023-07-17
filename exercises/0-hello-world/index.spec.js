@@ -1,4 +1,4 @@
-const hello = require('./index');
+const hello = require('./index.js');
 
 describe('Hello', function () {
   it('says hello world', function () {
